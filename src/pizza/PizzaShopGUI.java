@@ -4,7 +4,7 @@ import java.awt.*;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-i
+
 public class PizzaShopGUI{
     private static int totalCost = 10;
     private static ArrayList<String> ingredients = new ArrayList<>();
